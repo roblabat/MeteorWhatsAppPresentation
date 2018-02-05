@@ -1,0 +1,8 @@
+{
+  "name": "Ionic2CLI-Meteor-WhatsApp-Presentation",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
